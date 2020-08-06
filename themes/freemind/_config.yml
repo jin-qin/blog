@@ -1,0 +1,64 @@
+slogan: "Without any hesitation."
+
+theme: yeti
+inverse: false
+
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: Categories
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: Tags
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: Wiki
+    url: wiki
+    intro: "Wiki"
+    icon: "fa fa-book"
+  - title: About
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+links:
+  - title: "My Github"
+    url: http://www.github.com/jin-qin
+    intro: "My Github profile."
+    icon: "fa fa-github"
+  - title: "My LinkedIn"
+    url: https://www.linkedin.com/in/jin0423/
+    intro: "My LinedIn profile"
+    icon: "fa fa-linkedin"
+
+widgets:
+- search
+- category
+- tagcloud
+- recent_posts  
+- links
+
+rss: 
+fancybox: true
+favicon: favicon.png
+duoshuo_shortname:
+
+# Analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
+
+# search
+# swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+
+# share widgets
+bdshare: true
+jiathis: false
+

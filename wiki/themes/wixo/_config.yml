@@ -1,0 +1,31 @@
+theme: yeti
+inverse: false
+
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: Categories
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: Tags
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: Wiki
+    url: wiki
+    intro: "Wiki"
+    icon: "fa fa-book"
+  - title: About
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+rss: atom.xml
+fancybox: true
+favicon: favicon.png
+fold: false  # Whether to fold all the notebooks initially
+scratch_name: Scratch  # Notebook name of posts without categories variables
+google_analytics:
