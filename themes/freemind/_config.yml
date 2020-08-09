@@ -26,14 +26,18 @@ menu:
     icon: "fa fa-user"
 
 links:
-  - title: "My Github"
+  - title: "Github"
     url: http://www.github.com/jin-qin
-    intro: "My Github profile."
+    intro: "Github profile."
     icon: "fa fa-github"
-  - title: "My LinkedIn"
+  - title: "LinkedIn"
     url: https://www.linkedin.com/in/jin0423/
-    intro: "My LinedIn profile"
+    intro: "LinedIn profile"
     icon: "fa fa-linkedin"
+  - title: "Email"
+    url: "mailto: qin_jin@live.com"
+    intro: "Send me an email"
+    icon: "fa fa-envelope"
 
 widgets:
 - search
