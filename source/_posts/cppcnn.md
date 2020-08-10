@@ -5,7 +5,12 @@ tags:
 - Deep Learning
 - Machine Learning
 - C++
+categories:
+- Machine Learning
 ---
+
+{% label GitHub info %}
+[Source codes](https://github.com/jin-qin/cppcnn)
 
 A tiny framework of convolutional nerual networks with C++ implementation. You can add arbitrary number of convolutional layers, max pooling layers and hidden layers to construct your own convolutional neural networks.
 
